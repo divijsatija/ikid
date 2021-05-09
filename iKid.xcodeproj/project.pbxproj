@@ -13,6 +13,16 @@
 		C2AF23C02646236000D58DD7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2AF23BE2646236000D58DD7 /* Main.storyboard */; };
 		C2AF23C22646236100D58DD7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2AF23C12646236100D58DD7 /* Assets.xcassets */; };
 		C2AF23C52646236100D58DD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2AF23C32646236100D58DD7 /* LaunchScreen.storyboard */; };
+		C2AF23D12647845400D58DD7 /* GoodFirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2AF23D02647845400D58DD7 /* GoodFirstViewController.swift */; };
+		C2AF23D42647846F00D58DD7 /* PunFirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2AF23D32647846F00D58DD7 /* PunFirstViewController.swift */; };
+		C2AF23D72647848600D58DD7 /* DadFirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2AF23D62647848600D58DD7 /* DadFirstViewController.swift */; };
+		C2AF23DA264786C900D58DD7 /* GoodViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2AF23D9264786C900D58DD7 /* GoodViewController.swift */; };
+		C2AF23DD264786D500D58DD7 /* PunViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2AF23DC264786D500D58DD7 /* PunViewController.swift */; };
+		C2AF23E0264786E100D58DD7 /* DadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2AF23DF264786E100D58DD7 /* DadViewController.swift */; };
+		C2AF23E3264786F700D58DD7 /* GoodSecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2AF23E2264786F700D58DD7 /* GoodSecondViewController.swift */; };
+		C2AF23E6264786FF00D58DD7 /* PunSecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2AF23E5264786FF00D58DD7 /* PunSecondViewController.swift */; };
+		C2AF23E92647870700D58DD7 /* DadSecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2AF23E82647870700D58DD7 /* DadSecondViewController.swift */; };
+		C2AF23EC2647C48E00D58DD7 /* raw.png in Resources */ = {isa = PBXBuildFile; fileRef = C2AF23EB2647C48E00D58DD7 /* raw.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +34,16 @@
 		C2AF23C12646236100D58DD7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2AF23C42646236100D58DD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2AF23C62646236100D58DD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2AF23D02647845400D58DD7 /* GoodFirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoodFirstViewController.swift; sourceTree = "<group>"; };
+		C2AF23D32647846F00D58DD7 /* PunFirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PunFirstViewController.swift; sourceTree = "<group>"; };
+		C2AF23D62647848600D58DD7 /* DadFirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DadFirstViewController.swift; sourceTree = "<group>"; };
+		C2AF23D9264786C900D58DD7 /* GoodViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoodViewController.swift; sourceTree = "<group>"; };
+		C2AF23DC264786D500D58DD7 /* PunViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PunViewController.swift; sourceTree = "<group>"; };
+		C2AF23DF264786E100D58DD7 /* DadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DadViewController.swift; sourceTree = "<group>"; };
+		C2AF23E2264786F700D58DD7 /* GoodSecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoodSecondViewController.swift; sourceTree = "<group>"; };
+		C2AF23E5264786FF00D58DD7 /* PunSecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PunSecondViewController.swift; sourceTree = "<group>"; };
+		C2AF23E82647870700D58DD7 /* DadSecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DadSecondViewController.swift; sourceTree = "<group>"; };
+		C2AF23EB2647C48E00D58DD7 /* raw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = raw.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +80,16 @@
 				C2AF23BA2646236000D58DD7 /* SceneDelegate.swift */,
 				C2AF23BC2646236000D58DD7 /* ViewController.swift */,
 				C2AF23BE2646236000D58DD7 /* Main.storyboard */,
+				C2AF23D9264786C900D58DD7 /* GoodViewController.swift */,
+				C2AF23DC264786D500D58DD7 /* PunViewController.swift */,
+				C2AF23DF264786E100D58DD7 /* DadViewController.swift */,
+				C2AF23E2264786F700D58DD7 /* GoodSecondViewController.swift */,
+				C2AF23E5264786FF00D58DD7 /* PunSecondViewController.swift */,
+				C2AF23E82647870700D58DD7 /* DadSecondViewController.swift */,
+				C2AF23D32647846F00D58DD7 /* PunFirstViewController.swift */,
+				C2AF23EB2647C48E00D58DD7 /* raw.png */,
+				C2AF23D62647848600D58DD7 /* DadFirstViewController.swift */,
+				C2AF23D02647845400D58DD7 /* GoodFirstViewController.swift */,
 				C2AF23C12646236100D58DD7 /* Assets.xcassets */,
 				C2AF23C32646236100D58DD7 /* LaunchScreen.storyboard */,
 				C2AF23C62646236100D58DD7 /* Info.plist */,
@@ -124,6 +154,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2AF23EC2647C48E00D58DD7 /* raw.png in Resources */,
 				C2AF23C52646236100D58DD7 /* LaunchScreen.storyboard in Resources */,
 				C2AF23C22646236100D58DD7 /* Assets.xcassets in Resources */,
 				C2AF23C02646236000D58DD7 /* Main.storyboard in Resources */,
@@ -137,9 +168,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2AF23E92647870700D58DD7 /* DadSecondViewController.swift in Sources */,
+				C2AF23E6264786FF00D58DD7 /* PunSecondViewController.swift in Sources */,
+				C2AF23D12647845400D58DD7 /* GoodFirstViewController.swift in Sources */,
+				C2AF23E3264786F700D58DD7 /* GoodSecondViewController.swift in Sources */,
+				C2AF23D72647848600D58DD7 /* DadFirstViewController.swift in Sources */,
+				C2AF23D42647846F00D58DD7 /* PunFirstViewController.swift in Sources */,
 				C2AF23BD2646236000D58DD7 /* ViewController.swift in Sources */,
+				C2AF23DD264786D500D58DD7 /* PunViewController.swift in Sources */,
 				C2AF23B92646236000D58DD7 /* AppDelegate.swift in Sources */,
 				C2AF23BB2646236000D58DD7 /* SceneDelegate.swift in Sources */,
+				C2AF23E0264786E100D58DD7 /* DadViewController.swift in Sources */,
+				C2AF23DA264786C900D58DD7 /* GoodViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
